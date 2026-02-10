@@ -24,7 +24,7 @@ body {
   height: 20px;
   background-color: azure;
   border:2px solid rgba(0,0,0,0.5);
-  box-shadow:2px 3px 8px black;
+  box-shadow:2px 3px 8px grey;
 }
 
 #orange {
